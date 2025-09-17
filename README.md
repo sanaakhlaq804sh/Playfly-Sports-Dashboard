@@ -19,7 +19,7 @@ Screenshots
 The following images provide a glimpse into the dashboard's user interface and its key data visualizations.
 
 Dashboard Overview
-![play fly 1.jpg](play fly 1.jpg)
+![play fly 1.jpg](https://github.com/sanaakhlaq804sh/Playfly-Sports-Dashboard/blob/main/play%20fly%201.png?raw=true)
 
 Detailed Analytics
 ![play fly 2.png](play fly 2.png)
