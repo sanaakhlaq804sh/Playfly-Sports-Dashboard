@@ -25,7 +25,7 @@ Detailed Analytics
 ![play fly 2.png](https://github.com/sanaakhlaq804sh/Playfly-Sports-Dashboard/blob/main/play%20fly%202.png?raw=true)
 
 Revenue & Performance Metrics
-![playfly 3.png](playfly 3.png)
+![playfly 3.png](https://github.com/sanaakhlaq804sh/Playfly-Sports-Dashboard/blob/main/playfly%203.png?raw=true)
 
 
 How to Use
